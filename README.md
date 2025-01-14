@@ -78,3 +78,16 @@ TO DO DIAGRAM
 ### Steps to Set Up
 
 TO DO ....
+
+## 🛠️ Example Use Cases
+
+TO DO ....
+
+## 🌟 Highlights of the Design
+
+- **Normalized Structure:** Avoids redundancy and ensures data consistency.
+- **Historical Tracking:** Captures historical changes in class assignments, teacher roles, and more.
+- **Scalability: Designed** to accommodate growing data with indexes and extensible structures.
+
+## 🧑‍💻 Author
+- Lukasz Kwiatkowski
